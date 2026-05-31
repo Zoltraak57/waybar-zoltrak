@@ -2,7 +2,7 @@
 
 ## Requirements
 
-* Waybar
+* waybar-cava-git 
 * Nerd Font (recommended)
 * Cava
 * pulseaudio
