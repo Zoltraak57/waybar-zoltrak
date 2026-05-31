@@ -40,6 +40,5 @@ pkill waybar && waybar &
 You can edit `config` and `style.css` to match your preferences, colors, fonts, and modules.
 
 ## Screenshots
-Add screenshots of your setup in the `screenshots/` folder and display th## Preview
 
 ![Waybar Preview](preview.png)
