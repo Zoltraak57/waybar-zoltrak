@@ -1,0 +1,76 @@
+/* GLOBAL */
+* {
+    border: none;
+    font-family: "JetBrainsMono Nerd Font";
+    font-size: 14px;
+}
+
+window#waybar {
+    background: transparent;
+}
+
+/* SINGLE PILL */
+.modules-center {
+    background: rgba(40, 40, 40, 0.92);
+    border-radius: 999px;
+    border: 1px solid #504945;
+
+    margin-top: 10px;
+    padding: 4px 18px;
+}
+
+/* MODULES */
+#pulseaudio,
+#window,
+#custom-hour,
+#custom-minute,
+#workspaces,
+#network,
+#bluetooth {
+    background: transparent;
+    padding: 0 10px;
+}
+
+/* APP */
+#window {
+    color: #d4be98;
+    font-weight: 600;
+}
+
+/* VOLUME */
+#pulseaudio {
+    color: #e78a4e;
+}
+
+/* JAM */
+#custom-hour {
+    color: #a9b665;
+    font-weight: bold;
+}
+
+/* MENIT */
+#custom-minute {
+    color: #d4be98;
+    font-weight: bold;
+}
+
+/* WORKSPACES */
+#workspaces button {
+    color: #665c54;
+    padding: 0 2px;
+    min-width: 14px;
+}
+
+#workspaces button.active {
+    color: #a9b665;
+}
+
+/* WIFI */
+#network {
+    color: #89b482;
+}
+
+/* BLUETOOTH */
+#bluetooth {
+    color: #7daea3;
+}
