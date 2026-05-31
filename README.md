@@ -10,7 +10,9 @@
 
 ## Install
 Arch Linux:
+```bash
 yay -S waybar-cava.git
+```
 
 Clone the repository:
 
