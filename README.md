@@ -17,7 +17,7 @@ yay -S waybar-cava.git
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/waybar-zoltrak.git
+https://github.com/Zoltraak57/waybar-zoltrak.git
 ```
 
 Navigate to the project directory:
